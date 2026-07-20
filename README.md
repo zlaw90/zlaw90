@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zlaw90
-- 👀 I’m interested in cooking, video games, and being a dungeon master.
-- 🌱 I’m currently learning advanced c++, embedded systems, computer graphics and web programming.
+
 - 📫 How to reach me zachlaw90@gmail.com
 
 <!---
